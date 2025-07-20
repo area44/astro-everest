@@ -8,7 +8,9 @@
     "dev": "astro dev",
     "preview": "astro preview",
     "start": "astro dev",
-    "format": "biome format --write ."
+    "format": "biome format --write .",
+    "lint": "biome lint --write .",
+    "check": "biome check --write ."
   },
   "dependencies": {
     "@astrojs/alpinejs": "^0.4.8",
