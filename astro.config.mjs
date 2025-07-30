@@ -1,13 +1,15 @@
 // @ts-check
-
 import alpinejs from "@astrojs/alpinejs";
 import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 
+const site = process.env.SITE || "http://localhost:4321";
+const base = process.env.BASE || "/";
+
 // https://astro.build/config
 export default defineConfig({
-  site: process.env.CI ? "https://area44.github.io" : "http://localhost:3000",
-  base: process.env.CI ? "/astro-everest/" : undefined,
+  site,
+  base,
   integrations: [alpinejs()],
   vite: {
     plugins: [tailwindcss()],
