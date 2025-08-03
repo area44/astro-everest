@@ -16,7 +16,7 @@
     "@astrojs/alpinejs": "^0.4.8",
     "@tailwindcss/vite": "^4.1.11",
     "alpinejs": "^3.14.9",
-    "astro": "^5.12.5",
+    "astro": "^5.12.8",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
