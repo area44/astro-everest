@@ -13,18 +13,18 @@
     "check": "biome check --write ."
   },
   "dependencies": {
-    "@astrojs/alpinejs": "^0.4.8",
+    "@astrojs/alpinejs": "^0.4.9",
     "@tailwindcss/vite": "^4.1.13",
     "alpinejs": "^3.15.0",
-    "astro": "^5.13.5",
+    "astro": "^5.13.7",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
     "@area44/biome-config": "^2.2.5",
-    "@biomejs/biome": "^2.2.3",
+    "@biomejs/biome": "^2.2.4",
     "@types/alpinejs": "^3.13.11",
-    "@types/node": "^22.18.1",
-    "@types/react": "^19.1.12",
+    "@types/node": "^22.18.3",
+    "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9"
   }
 }
