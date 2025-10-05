@@ -14,17 +14,17 @@
   },
   "dependencies": {
     "@astrojs/alpinejs": "^0.4.9",
-    "@tailwindcss/vite": "^4.1.13",
+    "@tailwindcss/vite": "^4.1.14",
     "alpinejs": "^3.15.0",
     "astro": "^5.14.1",
-    "tailwindcss": "^4.1.13"
+    "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
     "@area44/biome-config": "^2.2.6",
-    "@biomejs/biome": "^2.2.4",
+    "@biomejs/biome": "^2.2.5",
     "@types/alpinejs": "^3.13.11",
-    "@types/node": "^22.18.6",
-    "@types/react": "^19.1.15",
-    "@types/react-dom": "^19.1.9"
+    "@types/node": "^22.18.8",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0"
   }
 }
