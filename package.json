@@ -16,15 +16,15 @@
     "@astrojs/alpinejs": "^0.4.9",
     "@tailwindcss/vite": "^4.1.14",
     "alpinejs": "^3.15.0",
-    "astro": "^5.14.1",
+    "astro": "^5.14.4",
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
     "@area44/biome-config": "^2.2.6",
     "@biomejs/biome": "^2.2.5",
     "@types/alpinejs": "^3.13.11",
-    "@types/node": "^22.18.8",
-    "@types/react": "^19.2.0",
-    "@types/react-dom": "^19.2.0"
+    "@types/node": "^22.18.10",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.1"
   }
 }
