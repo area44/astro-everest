@@ -17,4 +17,4 @@ Licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-This project use gallery emlement from [Pines UI](https://devdojo.com/pines).
+This project use gallery emlement from [Pines UI](https://github.com/thedevdojo/pines).

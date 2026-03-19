@@ -1,16 +1,16 @@
 {
   "name": "@area44/astro-everest",
-  "version": "25.01.27",
+  "version": "26.03.19",
   "private": true,
   "description": "An image gallery built with Astro, Alpine.js and Tailwind CSS",
   "scripts": {
-    "build": "astro build",
     "dev": "astro dev",
+    "build": "astro build",
     "preview": "astro preview",
     "start": "astro dev",
-    "format": "biome format --write .",
-    "lint": "biome lint --write .",
-    "check": "biome check --write ."
+    "format": "biome format --write",
+    "lint": "biome lint --write",
+    "check": "biome check --write"
   },
   "dependencies": {
     "@astrojs/alpinejs": "^0.5.0",
